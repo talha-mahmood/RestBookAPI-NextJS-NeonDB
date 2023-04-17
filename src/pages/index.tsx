@@ -1,6 +1,6 @@
 
 import { Inter } from 'next/font/google'
-import WhatAPI from './api/books/WhatAPI'
+
 import Image from "next/image";
 import myimg from "public/robot.jpg";
 
